@@ -1,0 +1,7 @@
+sellValue:
+  prefix: '&7回收价格'
+  currency: '&f金币'
+
+msg:
+  itemError: '&c这个物品无法回收'
+  success: '&a回收成功'

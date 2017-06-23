@@ -1,0 +1,11 @@
+name: ItemSell
+main: cc.isotopestudio.itemsell.ItemSell
+
+author: Mars
+description: ItemSell
+website: http://isotopestudio.cc
+version: 1.0.0
+commands:
+  pls:
+    description: ItemSell
+    usage: /<command>
